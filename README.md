@@ -1,6 +1,6 @@
-# Minecraft Automation Suite
+# Minecraft Crystal Pvp Macros
 
-A collection of lightweight, high-speed, and file-less automation macros designed for advanced Minecraft PvP and combat mechanics (Crystal PvP, Respawn Anchors, and Air Anchors). 
+A collection of lightweight, high-speed, and **file-less** macros designed for minecraft CPVP (Crystal PvP, Respawn Anchors, and Air Anchors). 
 
 Built using Python with randomized timing loops to ensure smooth execution and compatibility with modern server anti-cheats.
 
