@@ -27,4 +27,4 @@ Combines the D-tap, Anchor, and Air Anchor macros into a single macro with custo
 
 * **File-Less Launch Command:**
   ```cmd
-  cmd /k python -m pip install -q keyboard mouse && python -c "import urllib.request; exec(urllib.request.urlopen('[YOUR_RAW_GITHUB_URL_HERE](https://raw.githubusercontent.com/gersbesgb/Crystal-Pvp-Macro/refs/heads/main/cpvp.py)').read().decode())"
+  cmd /k python -m pip install -q keyboard mouse && python -c "import urllib.request; exec(urllib.request.urlopen('(https://raw.githubusercontent.com/gersbesgb/Crystal-Pvp-Macro/refs/heads/main/cpvp.py)').read().decode())"
