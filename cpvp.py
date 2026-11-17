@@ -98,7 +98,7 @@ while True:
 
         
         delay_ms = random.randint(40, 50)   # Random delay (Light AC bypass)
-        delay_ms2 = random.randint(20, 35)
+        delay_ms2 = random.randint(40, 55)
         delay_glowsstone_bug_fix = random.randint(35, 50) # bug fix do not remove
 
         keyboard.press_and_release(ABind)
